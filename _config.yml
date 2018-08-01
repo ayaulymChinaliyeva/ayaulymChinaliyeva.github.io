@@ -18,17 +18,17 @@ avatar: https://avatars1.githubusercontent.com/u/37076155?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: tolegenovaalua@gmail.com
+  facebook: Ayaulym Chinaliyeva
   flickr:
   github: ayaulymChinaliyeva
-  instagram:
-  linkedin:
+  instagram: anukasanum
+  linkedin: Ayaulym Chinaliyeva
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: kimayaARMY
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: Aya Kim</user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-123133586-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
