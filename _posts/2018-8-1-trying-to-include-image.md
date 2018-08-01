@@ -1,8 +1,6 @@
 ---
-
 layout: post
-title: "Trying to include an image to the post!"
-
+title: Trying to include an image to the post!
 ---
 Guys...
 I just started using this platform for my blog...and now i'm gonna try to put a picture into the post.
