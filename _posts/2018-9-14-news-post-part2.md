@@ -3,8 +3,7 @@ layout: post
 title: Second part of my heartbreaking news, haha!)))
 ---
 This week I talked to TED club's teacher, and she turned out to be a kind woman. Unfortunately, I didn't enter this club before, but I 
-found passionfor public speeches only several months ago. What a pleasure and energy for me it is - to stand in front of many people and 
-speak, pitch, present! Whoaaaaaa~heart is beating a hundred times per minute~ So, I decided to use the opportunity, until I have it))
+found passion for public speeches only several months ago, sooo - using my last year at school for this passion. What a pleasure and energy for me it is - to stand in front of many people and speak, pitch, present! Whoaaaaaa~heart is beating a hundred times per minute~ So, I decided to catch the opportunity, until I have it))
 This is not to say the main reason of writing a post, we had a team-tea drinking yeaterday at the office))) wonderful, I love my Team! We 
 are together almost a year, and regardless the fact that we are so different and have such a different and busy schedules, we always find 
 time to meet, to work, to CONTRIBUTE! ~ahhh
