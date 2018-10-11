@@ -8,7 +8,7 @@ built on many identific opinions, but only my subjective thoughts. To agree or n
 which to my point of view identify your personality. Let's know what are they.
 First of all, surely comes a dream. Your dream can tell much about you. Why? Let's compare a person, whose biggest dream's having a car and a 
 person whose biggest dream is becoming CEO at Google. People say, that dreams are abstract, but I must say, that dreams can be different and 
-not importantly abstract. First person doesn't what kind of a car he/she wants, it's not specific, it's not big. The thing that dream is not 
+not importantly abstract. First person doesn't know what kind of a car he/she wants, it's not specific, it's not big. The thing that dream is not 
 specific says that you are not planning to implement your dream. If you are not even planning it, what about turning it into reality? The 
 thing that dream is so small, so Earthly tells how limited your imagination and how low your self-esteem is. If you can't dream about anything
 bigger than a car, then what are you going to do when car is in your hands? If you think that the maximum you deserve is a car, then how are
