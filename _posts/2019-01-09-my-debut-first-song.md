@@ -20,7 +20,7 @@ Name: Happily <i>//I would be happy, if you wrote me your comments regarding lyr
 <b>Verse 1:</b> <br>
 Is rain the only reason for your pain? <br>
 Or does it remind you of a better day? <br>
-Or does make you feel all alone? <br>
+Or does it make you feel all alone? <br>
 Taking back just given hope? <br>
 
 <b>Pre-chorus:</b> <br>
