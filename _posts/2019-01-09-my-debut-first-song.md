@@ -17,10 +17,10 @@ Here is the song... [enjoy it, please:))))) and yeah, it's short, but that's the
 
 Name: Happily <i>//I would be happy, if you wrote me your comments regarding lyrics, I'm now working on arrangement. Will publish on soundcloud, once the song is ready</i>
 
-<b>Verse 1:</b>
+<b>Verse 1:</b> <br>
 Is rain the only reason for your pain? <br>
-Or does remind you of a better day? <br>
-Or does make feel all alone? <br>
+Or does it remind you of a better day? <br>
+Or does make you feel all alone? <br>
 Taking back just given hope? <br>
 
 <b>Pre-chorus:</b> <br>
