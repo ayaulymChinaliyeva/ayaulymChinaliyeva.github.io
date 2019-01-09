@@ -18,8 +18,8 @@ Here is the song... [enjoy it, please:))))) and yeah, it's short, but that's the
 Name: Happily //I would be happy, if you wrote me your comments regarding lyrics, I'm now working on arrangement. Will publish on soundcloud, once the song is ready
 
 Verse 1:
-Is rain the only reason for your pain?
-Or does remind you of a better day?
+Is rain the only reason for your pain? <br>
+Or does remind you of a better day? <br>
 Or does make feel all alone?
 Taking back just given hope?
 
