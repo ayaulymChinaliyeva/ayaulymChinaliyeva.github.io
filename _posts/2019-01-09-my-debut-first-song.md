@@ -2,7 +2,7 @@
 layout: post
 title: My first song that I'm publishing
 ---
-First of all, HAPPY NEW YEAR EVERYBODY!
+First of all, HAPPY NEW YEAR EVERYBODY! <br>
 I hope all your plans will be implemented this year, and you will be the one who reaches out all objectives for this year!
 I'm happy to announce that I took up course "Developing your musicianship" on coursera, which is my first course exactly on this platform. 
 Online education is good with its big advantage (which also belongs to NIS) - it is free. Of course, if you want to obtain certificate for completing
@@ -15,15 +15,15 @@ for it whole day, while it's just a test. That's important - to be happy for sma
 Well, I think I should stop here.
 Here is the song... [enjoy it, please:))))) and yeah, it's short, but that's the idea, nothing is wrong]:
 
-Name: Happily //I would be happy, if you wrote me your comments regarding lyrics, I'm now working on arrangement. Will publish on soundcloud, once the song is ready
+Name: Happily <i>//I would be happy, if you wrote me your comments regarding lyrics, I'm now working on arrangement. Will publish on soundcloud, once the song is ready</i>
 
-Verse 1:
+<b>Verse 1:</b>
 Is rain the only reason for your pain? <br>
 Or does remind you of a better day? <br>
 Or does make feel all alone? <br>
 Taking back just given hope? <br>
 
-Pre-chorus: <br>
+<b>Pre-chorus:</b> <br>
 Do you really think there must be <br>
 A good reason <br>
 To bend in half and shout hysterically <br>
@@ -41,7 +41,7 @@ From moments <br>
 Where you smile next to him, feeling <br>
 Happily <br>
 
-Chorus: <br>
+<b>Chorus:</b> <br>
 Do your best to clean up your memory <br>
 From moments <br>
 Where you smile next to him, feeling <br>
