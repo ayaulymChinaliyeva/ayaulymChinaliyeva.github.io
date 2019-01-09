@@ -20,31 +20,31 @@ Name: Happily //I would be happy, if you wrote me your comments regarding lyrics
 Verse 1:
 Is rain the only reason for your pain? <br>
 Or does remind you of a better day? <br>
-Or does make feel all alone?
-Taking back just given hope?
+Or does make feel all alone? <br>
+Taking back just given hope? <br>
 
-Pre-chorus:
-Do you really think there must be
-A good reason
-To bend in half and shout hysterically
-Every season
-It must have been love if you say
-"Heart is breaking"
-There must have been no mask with him
-No pretending
-But if you say your soul feels this time
-So dirty
-He must have been rotten inside
-Not sorry
-Do your best to clean up your memory
-From moments
-Where you smile next to him, feeling
-Happily
+Pre-chorus: <br>
+Do you really think there must be <br>
+A good reason <br>
+To bend in half and shout hysterically <br>
+Every season <br>
+It must have been love if you say <br>
+"Heart is breaking" <br>
+There must have been no mask with him <br>
+No pretending <br>
+But if you say your soul feels this time <br>
+So dirty <br>
+He must have been rotten inside <br>
+Not sorry <br>
+Do your best to clean up your memory <br>
+From moments <br>
+Where you smile next to him, feeling <br>
+Happily <br>
 
-Chorus:
-Do your best to clean up your memory
-From moments
-Where you smile next to him, feeling
-Happily
+Chorus: <br>
+Do your best to clean up your memory <br>
+From moments <br>
+Where you smile next to him, feeling <br>
+Happily <br>
 
 instrumental break
