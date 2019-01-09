@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+Do I have to write my background here?
 
 ### More Information
 
-Living with a dream to study in MIT and already a lead Android developer in LightApp.
+I'm just girl with just a dream, no kidding. I'm living to be me.
 
 ### Contact me
 
-[tolegenovaalua@gmail.com](mailto:tolegenovaalua@gmail.com)
+[ayaulym.chinaliyeva@gmail.com](mailto:ayaulym.chinaliyeva@gmail.com)
