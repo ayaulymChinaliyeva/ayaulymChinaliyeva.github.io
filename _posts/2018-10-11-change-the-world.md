@@ -2,22 +2,21 @@
 layout: post
 title: Have you ever thought about willing to change the world?
 ---
-I was talking about the amount of information that your academic achievements can give on you, and now I want to tell what can define you 
-as a human being. No, this is not results of a big research, but this is a conclusion made from my observations. And no, this is not a fact
-built on many identific opinions, but only my subjective thoughts. To agree or not - you decide. I'm going to tell you about 3 parametres 
-which to my point of view identify your personality. Let's know what are they.
-First of all, surely comes a dream. Your dream can tell much about you. Why? Let's compare a person, whose biggest dream's having a car and a 
-person whose biggest dream is becoming CEO at Google. People say, that dreams are abstract, but I must say, that dreams can be different and 
-not importantly abstract. First person doesn't know what kind of a car he/she wants, it's not specific, it's not big. The thing that dream is not 
+I was talking about the amount of information that your academic achievements can provide about you, and now I want to tell what can define you 
+as a human being. No, this things are not results of a big research, but they are just a conclusion made from my observations. And no, this is not a fact
+built on many unique opinions, but only my subjective thoughts. To agree or not to - you decide. I'm going to tell you about 3 parameters, 
+which to my point of view, identify your personality. Let's know what they are.
+First of all, surely comes a <b>dream</b>. Your dream can tell much about you. Why? Let's compare a person, whose biggest dream's having a car, and a 
+person whose biggest dream is becoming CEO at Google. People say, that dreams are abstract, but I must say, that they might be really precise and certain. First person doesn't know what kind of a car he/she wants, it's not specific, it's not big. The thing that dream is not 
 specific says that you are not planning to implement your dream. If you are not even planning it, what about turning it into reality? The 
-thing that dream is so small, so Earthly tells how limited your imagination and how low your self-esteem is. If you can't dream about anything
+thing that dream is so small tells how limited your imagination and how low your self-esteem is. If you can't dream about anything
 bigger than a car, then what are you going to do when car is in your hands? If you think that the maximum you deserve is a car, then how are
-you going to realise such a great potential that God has put into you? Dreams are differnt, but they can already tell much. They can tell if
+you going to realise such a great potential that God has put into you? Dream is not an achievement, but it can already tell much. It can tell if
 you are able to think out of the box or not, your ability to be creative, boarders of your imagination and how perseverance you are. Ability
-do dream big is also a skill, because a person who thinks that nothing is possible in this world is going to sit til the end of his life without
-even trying.
-Second, how diversified people that surround you are. For sure, this can tell about you language skills, communication/networking skills, 
-whether you are open-minded or not and how smart you are. Let's talk about languages. Well, if you can speak only one language you are likely
+to dream big is also a skill, because a person who thinks that nothing is possible in this world (therefore is not even trying to dream) is going to sit til the end of his life without
+even trying to act.
+Second, how diversified people that surround you are. For sure, this side of personality can tell about your language skills, communication/networking skills, 
+whether you are open-minded or not, and how smart you are. Let's talk about languages. Well, if you can speak only one language you are likely
 to have many close friends and they are probably of different ages, which is not also guaranteed, which means you live in an aquarium of same
 fishes as you, but not in an ocean that is full of different life. If you are good at making new friends, you are likely to have friends everywhere,
 especially if you know the language (unless you can't talk to your friend). I think this is just clear, because you might have a friend from Spain,
